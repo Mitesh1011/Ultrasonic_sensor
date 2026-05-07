@@ -79,13 +79,13 @@ pip install RPi.GPIO
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Mitesh1011/Ultrasonic_sensor.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your-repository-name
+cd Ultrasonic_sensor
 ```
 
 Run the Python file:
@@ -103,8 +103,6 @@ project/
 │
 ├── obstacle_avoidance.py
 ├── README.md
-├── images/
-└── videos/
 ```
 
 ---
@@ -120,9 +118,9 @@ project/
 ---
 
 ## Author
-Developed by [Your Name]
+Mitesh Salvi
 
-MSc Intelligent Automation and Robotics  
+MEng(Hons) Intelligent Automation and Robotics  
 Edge Hill University
 
 ---
